@@ -1,6 +1,10 @@
 # Is the agent Bayesian? How?
 This repo contains the experiments we conducted for our Bayesian Modeling of Brain and Behavior Course project. Our task consisted in -----, which could be assessed at 5 different levels of difficulty.
 
+## How to use?
+Clone the repository
+uv sync to create virtual environment from pyproject.toml
+
 ## Src
 - data_gen contains the code to generate --- 
 - notebooks contains explanation notebooks of the experiments for the corresponding level (1 to 5). One notebook per level
